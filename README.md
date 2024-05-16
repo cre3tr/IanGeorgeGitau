@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ceaser7-7
-- 👀 I’m interested in Cyber-Security, Network Administration, Cloud Technology, Databases, Python, JavaScript and basically anything that's front end.
+- 👋 Hello, I’m @Cre3tr
+- 👀 I’m interested in Cyber-Security, Network Administration, Cloud Technology, Databases, Python and React.
 - 🌱 I’m currently learning about the Cloud, API's and DB's.
-- 💞️ I’m looking to collaborate on anything really! I could use a challenge and I'd like to experience new things and the referrals would be a plus!
-- 📫 How to reach me? Send me an email at ex37h1akr@mozmail.com
+- 💞️ I’m looking to collaborate on any novice projects as I work my way back into programming. I could use a challenge and I'd like to encounter/experience new things and the referrals would be a plus!
+- 📫 Let's connect here: https://bio.site/cre3tr
 
 <!---
 IanGeorgeGitau/Ceaser7-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
